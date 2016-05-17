@@ -7,7 +7,7 @@
 
 return array(
 	'user' => 'student',
-	'pass' => 'rop4me',
+	'pass' => 'student',
 	'name' => 'student',
 	'host' => 'localhost',
 );
